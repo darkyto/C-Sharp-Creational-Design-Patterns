@@ -1,0 +1,1 @@
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\CreationalPatterns\bin\Debug\CreationalPatterns.exe.config

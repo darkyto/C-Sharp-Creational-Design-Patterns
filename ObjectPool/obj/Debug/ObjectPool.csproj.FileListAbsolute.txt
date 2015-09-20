@@ -1,0 +1,6 @@
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\ObjectPool\bin\Debug\ObjectPool.exe.config
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\ObjectPool\bin\Debug\ObjectPool.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\ObjectPool\bin\Debug\ObjectPool.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\ObjectPool\obj\Debug\ObjectPool.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\ObjectPool\obj\Debug\ObjectPool.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\ObjectPool\obj\Debug\ObjectPool.pdb

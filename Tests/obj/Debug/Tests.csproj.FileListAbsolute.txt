@@ -1,0 +1,17 @@
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\bin\Debug\Tests.dll
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\bin\Debug\Tests.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\bin\Debug\AbstractFactory.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\bin\Debug\nunit.framework.dll
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\bin\Debug\AbstractFactory.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\bin\Debug\nunit.framework.xml
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\obj\Debug\Tests.dll
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\obj\Debug\Tests.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\bin\Debug\FactoryMethod.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\bin\Debug\FactoryMethod.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\bin\Debug\Singelton.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\bin\Debug\Singelton.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\bin\Debug\SimpleFactory.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\bin\Debug\SimpleFactory.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\bin\Debug\FluentInterface.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Tests\bin\Debug\FluentInterface.pdb

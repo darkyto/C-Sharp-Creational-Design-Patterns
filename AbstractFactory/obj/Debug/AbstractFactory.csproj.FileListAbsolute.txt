@@ -1,0 +1,6 @@
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\AbstractFactory\obj\Debug\AbstractFactory.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb

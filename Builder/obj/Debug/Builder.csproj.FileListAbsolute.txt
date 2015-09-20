@@ -1,0 +1,6 @@
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Builder\bin\Debug\Builder.exe.config
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Builder\bin\Debug\Builder.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Builder\bin\Debug\Builder.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Builder\obj\Debug\Builder.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\Builder\obj\Debug\Builder.pdb

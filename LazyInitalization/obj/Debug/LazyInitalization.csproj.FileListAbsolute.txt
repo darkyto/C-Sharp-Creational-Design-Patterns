@@ -1,0 +1,6 @@
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\LazyInitalization\bin\Debug\LazyInitalization.exe.config
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\LazyInitalization\obj\Debug\LazyInitalization.csprojResolveAssemblyReference.cache
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\LazyInitalization\bin\Debug\LazyInitalization.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\LazyInitalization\bin\Debug\LazyInitalization.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\LazyInitalization\obj\Debug\LazyInitalization.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\LazyInitalization\obj\Debug\LazyInitalization.pdb

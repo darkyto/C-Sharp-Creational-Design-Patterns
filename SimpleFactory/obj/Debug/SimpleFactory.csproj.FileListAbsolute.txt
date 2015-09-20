@@ -1,0 +1,5 @@
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\SimpleFactory\bin\Debug\SimpleFactory.exe.config
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\SimpleFactory\bin\Debug\SimpleFactory.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\SimpleFactory\bin\Debug\SimpleFactory.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\SimpleFactory\obj\Debug\SimpleFactory.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\SimpleFactory\obj\Debug\SimpleFactory.pdb

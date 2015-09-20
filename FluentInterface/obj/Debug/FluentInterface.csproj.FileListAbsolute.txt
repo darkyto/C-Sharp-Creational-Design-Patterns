@@ -1,0 +1,5 @@
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\FluentInterface\bin\Debug\FluentInterface.exe.config
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\FluentInterface\bin\Debug\FluentInterface.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\FluentInterface\bin\Debug\FluentInterface.pdb
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\FluentInterface\obj\Debug\FluentInterface.exe
+D:\TELERIK\KPK\TRAINING\HQC-Creational-Patterns\CreationalPatterns\FluentInterface\obj\Debug\FluentInterface.pdb
